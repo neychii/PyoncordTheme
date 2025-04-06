@@ -70,13 +70,14 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
-    "alpha": 0.9,
+    "alpha": 0.5,
     "color": "#0A0A0A"
   },
   "plus": {
     "version": "0",
+    "unreadBadgeColor": "#372C6D",
     "customOverlays": true,
-    "iconpack": "rosiecord-plumpy",
+    "iconpack": "md3",
     "icons": {
       "ic_new_pins": "#634fff",
       "StatusStreaming": "#6052ff",
