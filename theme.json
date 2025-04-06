@@ -11,9 +11,9 @@
     "HEADER_SECONDARY": ["#FFFFFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_MUTED": ["#5E5E5E"],
-    "TEXT_LINK": ["#2C1DFF"],
-    "INTERACTIVE_NORMAL": ["#372C6D"],
-    "INTERACTIVE_HOVER": ["#FF5500"],
+    "TEXT_LINK": ["#8860FF"],
+    "INTERACTIVE_NORMAL": ["#8860FF"],
+    "INTERACTIVE_HOVER": ["#E1C5FD"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
     "INTERACTIVE_MUTED": ["#5F5160"],
     "BACKGROUND_PRIMARY": ["#211949"],
@@ -26,7 +26,7 @@
     "BACKGROUND_MOBILE_SECONDARY": ["#372C6D"],
     "BACKGROUND_NESTED_FLOATING": ["#372C6D"],
 
-    "BACKGROUND_MESSAGE_HOVER": ["#0A0A0A"],
+    "BACKGROUND_MESSAGE_HOVER": ["#FF5500"],
     "BACKGROUND_MODIFIER_HOVER": ["#0A0A0A"],
     "BACKGROUND_MODIFIER_ACTIVE": ["#67427D"],
     "BACKGROUND_MODIFIER_SELECTED": ["#67427D"],
@@ -76,7 +76,7 @@
   "plus": {
     "version": "0",
     "unreadBadgeColor": "#372C6D",
-    "mentionLineColor": "#8860FF",
+    "mentionLineColor": "#372C6D",
     "customOverlays": true,
     "iconpack": "md3",
     "icons": {
