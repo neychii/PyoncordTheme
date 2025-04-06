@@ -16,10 +16,10 @@
     "INTERACTIVE_HOVER": ["#B988BC"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
     "INTERACTIVE_MUTED": ["#5F5160"],
-    "BACKGROUND_PRIMARY": ["#FF5500"],
+    "BACKGROUND_PRIMARY": ["#211949"],
     "BACKGROUND_SECONDARY": ["#211949"],
     "BACKGROUND_SECONDARY_ALT": ["#211949"],
-    "BACKGROUND_TERTIARY": ["#372C6D"],
+    "BACKGROUND_TERTIARY": ["#FF5500"],
     "BACKGROUND_ACCENT": ["#634A70"],
     "BACKGROUND_FLOATING": ["#222222"],
     "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0.1,
+    "blur": 0.3,
     "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
-    "alpha": 0.1,
+    "alpha": 0.95,
     "color": "#0A0A0A"
   },
   "plus": {
