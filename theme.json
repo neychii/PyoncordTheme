@@ -12,8 +12,8 @@
     "TEXT_NORMAL": ["#FFFFFF"],
     "TEXT_MUTED": ["#5E5E5E"],
     "TEXT_LINK": ["#2C1DFF"],
-    "INTERACTIVE_NORMAL": ["#FF5500"],
-    "INTERACTIVE_HOVER": ["#B988BC"],
+    "INTERACTIVE_NORMAL": ["#372C6D"],
+    "INTERACTIVE_HOVER": ["#FF5500"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
     "INTERACTIVE_MUTED": ["#5F5160"],
     "BACKGROUND_PRIMARY": ["#211949"],
@@ -76,7 +76,7 @@
   "plus": {
     "version": "0",
     "unreadBadgeColor": "#372C6D",
-    "mentionLineColor": "#7B00FF",
+    "mentionLineColor": "#8860FF",
     "customOverlays": true,
     "iconpack": "md3",
     "icons": {
