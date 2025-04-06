@@ -1,4 +1,4 @@
-{
+8{
   "name": "NeyPuple Theme",
   "description": "Based on kotikov theme by @kotru21",
   "authors": [
@@ -16,7 +16,7 @@
     "INTERACTIVE_HOVER": ["#B988BC"],
     "INTERACTIVE_ACTIVE": ["#E1C5FD"],
     "INTERACTIVE_MUTED": ["#5F5160"],
-    "BACKGROUND_PRIMARY": ["#372C6D"],
+    "BACKGROUND_PRIMARY": ["#FF5500"],
     "BACKGROUND_SECONDARY": ["#211949"],
     "BACKGROUND_SECONDARY_ALT": ["#211949"],
     "BACKGROUND_TERTIARY": ["#372C6D"],
@@ -70,7 +70,7 @@
   "background": {
     "blur": 0.1,
     "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
-    "alpha": 1,
+    "alpha": 0,
     "color": "#0A0A0A"
   },
   "plus": {
