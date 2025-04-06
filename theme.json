@@ -21,8 +21,8 @@
     "BACKGROUND_SECONDARY_ALT": ["#211949"],
     "BACKGROUND_TERTIARY": ["#211949"],
     "BACKGROUND_ACCENT": ["#372C6D"],
-    "BACKGROUND_FLOATING": ["#FF5500"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#222222"],
+    "BACKGROUND_FLOATING": ["#372C6D"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#FF5500"],
     "BACKGROUND_MOBILE_SECONDARY": ["#222222"],
     "BACKGROUND_NESTED_FLOATING": ["#0A0A0A"],
 
@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0.3,
+    "blur": 0.5,
     "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
-    "alpha": 0.9,
+    "alpha": 0.8,
     "color": "#0A0A0A"
   },
   "plus": {
