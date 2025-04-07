@@ -110,7 +110,7 @@
     },
     "background": {
         "blur": 0.5,
-        "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
+        "url": "https://raw.githubusercontent.com/neychii/PyoncordTheme/main/theme_BG/background.jpg"
         "alpha": 0.8,
         "color": "#0A0A0A"
     },
