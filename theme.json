@@ -234,5 +234,11 @@
         "BRAND_860": "#0d0f24",
         "BRAND_900": "#04050c"
     },
-    "spec": 2
+    "spec": 2,
+  "background": {
+    "blur": 0.3,
+    "url": "https://raw.githubusercontent.com/kotru21/Vendetta-discord-theme/main/theme_BG/background.jpg",
+    "alpha": 0.9,
+    "color": "#0A0A0A"
+  }
   }
